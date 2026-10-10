@@ -4,11 +4,11 @@ An advanced mathematical reference framework linking classical planetary orbits,
 
 ---
 
-## 🌌 Overview
+## Overview
 
 This repository houses **The Grand Unified Monograph**, a continuous theoretical playground where geometry acts as the absolute fabric of force. Moving systematically from coordinate-free exterior calculus to the edges of the cosmic horizon, this document serves as a rigorous roadmap for field unification.
 
-### 🗺️ Structural Synthesis Matrix
+### Structural Synthesis Matrix
 
 | Physics Domain | Governing Equation | Geometric Operator | Core Physical Reality |
 | :--- | :--- | :--- | :--- |
@@ -31,7 +31,7 @@ This repository houses **The Grand Unified Monograph**, a continuous theoretical
 
 ---
 
-## 🛠️ Repository Architecture
+## Repository Architecture
 
 ```unset
 ├── assets/                                 # Vector diagrams and visual assets
@@ -44,7 +44,7 @@ This repository houses **The Grand Unified Monograph**, a continuous theoretical
 
 ---
 
-## 🚀 Compilation & Rendering
+## Compilation & Rendering
 
 To compile the source code into its geometric peak PDF format locally, ensure you have a complete LaTeX distribution (e.g., TeX Live, MiKTeX) installed.
 
